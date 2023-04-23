@@ -1,5 +1,5 @@
 
-<p align='center'>
+<p align="center">
 
 ![](bannière.png)
 
@@ -10,7 +10,7 @@ Feel free to check out the training and personal projects :blush: .
 
 </p>
 
-<p align='center'>
+<p align="center">
 
 <h2>My Tech Skills</h2> 
 
@@ -18,7 +18,7 @@ Feel free to check out the training and personal projects :blush: .
 
 </p>
 
-<p align='center'>
+<p align="center">
 
 <h2>My Stats Cards</h2> 
 
@@ -27,7 +27,7 @@ Feel free to check out the training and personal projects :blush: .
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=JodieAddis)](https://github.com/JodieAddis/github-profile-trophy) --> 
 
 </p>
-<p align='center'>
+<p align="center">
 
 <h2>Wakatime summary card</h2>
 
