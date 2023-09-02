@@ -6,7 +6,7 @@ Hello, I'm Jodie, and I'm currently undergoing training at [BeCode](https://beco
 <h2 align='center'>My Tech Skills</h2>
 
 <p align='center'>
-    <img src="https://skillicons.dev/icons?i=git,html,css,sass,tailwind,js,ts,react,php"/>
+    <img src="https://skillicons.dev/icons?i=figma,git,html,css,sass,tailwind,js,ts,react,php"/>
 
 <h2 align='center'>My Stats Cards</h2>
 
