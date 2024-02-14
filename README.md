@@ -6,7 +6,7 @@ Hello, I'm Jodie, and I'm currently undergoing training at [BeCode](https://beco
 <h2 align='center'>My Tech Skills</h2>
 
 <p align='center'>
-    <img src="https://skillicons.dev/icons?i=figma,git,html,css,sass,tailwind,js,ts,react,php"/>
+    <img src="https://skillicons.dev/icons?i=figma,git,tailwind,js,ts,react"/>
 
 <h2 align='center'>My Stats Cards</h2>
 
@@ -24,5 +24,5 @@ Hello, I'm Jodie, and I'm currently undergoing training at [BeCode](https://beco
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JodieAddis&layout=compact&theme=cobalt&langs_count=10&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" />  -->
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jodie&hide_title=true&langs_count=4&theme=cobalt&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jodie&hide_title=true&langs_count=5&theme=cobalt&hide_border=true">
 </p>
