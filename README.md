@@ -4,7 +4,7 @@
 
 After a 10-month training at [BeCode](https://becode.org/) and a 3-month internship in a company, I'm continuing my learning in the field of web development to enhance my skills. I invite you to discover my projects in the repositories section.
 
-If you want to learn more about me and/or contact me, visit my **[LinkedIn](https://www.linkedin.com/in/jodieaddis/)** and my **[Portfolio]()**.
+If you want to learn more about me and/or contact me, visit my **[LinkedIn](https://www.linkedin.com/in/jodieaddis/)**.<!-- and my **[Portfolio]()**.-->
 
 <hr>
 
