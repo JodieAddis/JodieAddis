@@ -1,22 +1,26 @@
 ![](bannière.png)
 
-Hi, welcome to my github! I'm Jodie and I'm a junior developer at . My goal is to become a .
-Hello, I'm Jodie, and I'm currently undergoing training at [BeCode](https://becode.org/) to become a web developer. My goal is to pursue a career as a **Full FrontEnd developer**. Feel free to check out the projects completed during the training as well as my personal projects :blush: .
+<h3 align="center">Hello, I'm Jodie, a React Developer</h3>
 
-<h2 align='center'>My Tech Skills</h2>
+After a 10-month training at [BeCode](https://becode.org/) and a 3-month internship in a company, I'm continuing my learning in the field of web development to enhance my skills. I invite you to discover my projects in the repositories section.
+
+If you want to learn more about me and/or contact me, visit my **[LinkedIn](https://www.linkedin.com/in/jodieaddis/)** and my **[Portfolio]()**.
+
+<hr>
+
+<h4 align="center">My Tech Skills</h4>
 
 <p align='center'>
-    <img src="https://skillicons.dev/icons?i=figma,git,tailwind,js,ts,react"/>
+    <img src="https://skillicons.dev/icons?i=figma,git,tailwind,js,ts,react,vite"/>
+<hr>
 
-<h2 align='center'>My Stats Cards</h2>
+<h4 align="center">My Stats Cards</h4>
 
 <p align='center'>
 <img src='https://github-readme-stats.vercel.app/api?username=JodieAddis&show_icons=true&theme=cobalt' al='Stats card of github'>
 </p>
-
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=JodieAddis)](https://github.com/JodieAddis/github-profile-trophy) -->
-
-<h2 align='center'>Wakatime summary card</h2>
+<hr>
+<h4 align='center'>Wakatime summary card</h4>
 
 <p align='center'>
 <img src='https://wakatime.com/badge/user/900a61a0-25c8-4e4f-9d41-fdf5a89c520c.svg'>
