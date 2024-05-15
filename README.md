@@ -11,7 +11,7 @@ If you want to learn more about me and/or contact me, visit my **[LinkedIn](http
 <h4 align="center">My Tech Skills</h4>
 
 <p align='center'>
-    <img src="https://skillicons.dev/icons?i=figma,git,tailwind,js,ts,react,vite"/>
+        <img src="https://skillicons.dev/icons?i=figma,git,vite,js,react,ts,tailwind,sass"/>
 <hr>
 
 <h4 align="center">My Stats Cards</h4>
@@ -26,7 +26,10 @@ If you want to learn more about me and/or contact me, visit my **[LinkedIn](http
 <img src='https://wakatime.com/badge/user/900a61a0-25c8-4e4f-9d41-fdf5a89c520c.svg'>
 </p>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JodieAddis&layout=compact&theme=cobalt&langs_count=10&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" />  -->
+<p align='center'>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JodieAddis&layout=compact&theme=cobalt&langs_count=10&hide_title=true&hide_border=true&include_all_commits=true&count_private=true" />
+</p>
+
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jodie&hide_title=true&langs_count=5&theme=cobalt&hide_border=true">
 </p>
