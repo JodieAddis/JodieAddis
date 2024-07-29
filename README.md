@@ -1,17 +1,17 @@
-![](bannière.png)
+![](banniere.png)
 
 <h3 align="center">Hello, I'm Jodie, a React Developer</h3>
 
 After a 10-month training at [BeCode](https://becode.org/) and a 3-month internship in a company, I'm continuing my learning in the field of web development to enhance my skills. I invite you to discover my projects in the repositories section.
 
-If you want to learn more about me and/or contact me, visit my **[LinkedIn](https://www.linkedin.com/in/jodieaddis/)**.<!-- and my **[Portfolio]()**.-->
+If you want to learn more about me and/or contact me, visit my **[LinkedIn](https://www.linkedin.com/in/jodieaddis/)** and my **[Portfolio](portfolio-tau-ten-38.vercel.app/)**.
 
 <hr>
 
 <h4 align="center">My Tech Skills</h4>
 
 <p align='center'>
-        <img src="https://skillicons.dev/icons?i=figma,git,vite,js,react,ts,tailwind,sass"/>
+<img src="https://skillicons.dev/icons?i=figma,git,js,react,sass,tailwind,ts,vite"/>
 <hr>
 
 <h4 align="center">My Stats Cards</h4>
